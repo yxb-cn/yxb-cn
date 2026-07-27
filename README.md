@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**yxb-cn/yxb-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Xuanbin Yang (杨轩滨)**, a Ph.D. candidate in Finance at **Nankai University**, specializing in financial econometrics. I am currently a visiting Ph.D. researcher in the **Department of Econometrics and Business Statistics at Monash University**.
 
-Here are some ideas to get you started:
+My research lies at the intersection of empirical asset pricing, financial econometrics, and machine learning. I am particularly interested in return predictability, high-dimensional factor models, time-varying relationships, nonparametric methods, and interpretable machine learning for financial applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research interests
+
+- Stock return predictability
+- Latent factor models
+- Time-varying and nonstationary econometrics
+- Machine learning for asset pricing
+- Macro-financial forecasting
+- Quantitative investment
+
+I expect to graduate in June 2027 and will be on the 2026–27 academic job market. I welcome conversations and potential collaborations with researchers and students who share similar interests.
+
+<p align="left">
+  <a href="https://yxb-cn.github.io/">
+    <img src="https://img.shields.io/badge/Visit%20my%20academic%20homepage-173A5E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my academic homepage">
+  </a>
+</p>
+
+[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=uA46vx4AAAAJ) · [SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=5484325) · [ORCID](https://orcid.org/0009-0004-9982-4436) · [Email](mailto:xuanbin.yang@hotmail.com)
