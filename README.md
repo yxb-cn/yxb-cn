@@ -16,8 +16,11 @@ My research lies at the intersection of empirical asset pricing, financial econo
 I expect to graduate in June 2027 and will be on the 2026–27 academic job market. I welcome conversations and potential collaborations with researchers and students who share similar interests.
 
 <p align="left">
-  <a href="https://yxb-cn.github.io/">
-    <img src="https://img.shields.io/badge/Visit%20my%20academic%20homepage-173A5E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my academic homepage">
+  <a href="https://yxb-cn.github.io/" title="Click to open my academic homepage">
+    <img
+      src="https://img.shields.io/badge/CLICK%20TO%20OPEN-My%20Academic%20Homepage%20%E2%86%97-173A5E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=426B7C"
+      alt="Click to open my academic homepage"
+    >
   </a>
 </p>
 
